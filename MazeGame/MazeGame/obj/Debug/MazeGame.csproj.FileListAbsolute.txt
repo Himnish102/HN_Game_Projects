@@ -1,0 +1,31 @@
+D:\Projects!\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+D:\Projects!\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+D:\Projects!\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.Form1.resources
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+D:\Projects!\MazeGame\MazeGame\bin\Debug\Interop.WMPLib.dll
+D:\Projects!\MazeGame\MazeGame\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects!\MazeGame\MazeGame\obj\Debug\Interop.WMPLib.dll
+D:\Projects!\MazeGame\MazeGame\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.Form1.resources
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\USB Work\Projects!\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.SuggestedBindingRedirects.cache
